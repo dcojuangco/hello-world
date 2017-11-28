@@ -1,0 +1,151 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 13543,
+  "do_objectID": "BBB9600A-0D50-43CB-8E58-4725E7384D27",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 50,
+    "width": 1000,
+    "x": 879,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "17156138-BADE-4363-A158-E369A9953879"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1F7B4874-1918-4D85-A8D7-FE57CAB97F85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F85ED9F9-0BDE-4B21-A804-B890E9BA68DC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1AF87C16-4427-442A-B341-BB3DBDA5FB4F"
+    },
+    {
+      "class": "text",
+      "id": "FC036D7C-3DBB-407B-841D-8039FC6C3486"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F744C88C-03B2-4487-B8AC-D26044B7CFB6"
+    },
+    {
+      "class": "text",
+      "id": "8D63C320-FCF9-4868-AF4F-0B2C22C4329F"
+    },
+    {
+      "class": "text",
+      "id": "092A8AEF-75E0-470F-9F9C-C38E546D40C7"
+    },
+    {
+      "class": "text",
+      "id": "C1CB3082-7251-4874-B32A-F8624652B785"
+    },
+    {
+      "class": "text",
+      "id": "5D57D77A-B408-461D-BD95-370E5C14FFD8"
+    },
+    {
+      "class": "text",
+      "id": "31C87B78-3195-48AE-AEB4-4E389A7EDF1F"
+    },
+    {
+      "class": "text",
+      "id": "7FBC986F-E9D5-404B-A939-817E15B01379"
+    },
+    {
+      "class": "text",
+      "id": "1A460B2C-8689-4D1C-81AF-3C3750ACE4F2"
+    },
+    {
+      "class": "text",
+      "id": "8AC75AD5-0DE6-4CBB-9B4A-9DABC43A9B52"
+    },
+    {
+      "class": "text",
+      "id": "B2C29D94-72CA-4ABF-B073-972B8AFB42FA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "805E88F9-8802-48BE-AA2D-60EEFAE9CDEB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1045B0D3-4F3E-4658-917B-16F7C9436F12"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 36.875,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 10,
+    "gutterWidth": 5,
+    "guttersOutside": false,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 24,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1000
+  },
+  "name": "Transactions Table/Row",
+  "nameIsFixed": true,
+  "originalObjectID": "D661B477-D82D-487A-9923-CAA9AECE26D5",
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "3AC9C2D1-092D-423F-9CF6-21A327D49CB7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
