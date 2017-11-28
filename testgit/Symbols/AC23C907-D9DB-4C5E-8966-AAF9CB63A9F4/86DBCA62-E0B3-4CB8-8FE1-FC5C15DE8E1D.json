@@ -1,0 +1,50 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "86DBCA62-E0B3-4CB8-8FE1-FC5C15DE8E1D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 16,
+    "width": 16,
+    "x": 31,
+    "y": 17
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 3,
+  "masterInfluenceEdgeMaxYPadding": 3,
+  "masterInfluenceEdgeMinXPadding": 2,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "Icon/PayRequest",
+  "nameIsFixed": false,
+  "overrides": {
+    "565C36CF-23CA-461E-9711-CA24CC4014AD": {
+      "symbolID": "9B1F69F4-2B62-4E0D-8475-774BAE36BFF9"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "FD7B3B3B-A13B-4171-85B5-485B429B4DBD",
+  "verticalSpacing": 0
+}
